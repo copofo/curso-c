@@ -1,0 +1,38 @@
+Linguagem C - Aula 1.1 - Aprenda a usar o DEV C++ (2022)
+
+Linguagem C - Aula 2.1 - Aprenda a mostrar mensagens em Linguagem C - printf - saída de dados (2022)
+
+Linguagem C - Aula 2.2 - Inserindo dados pelo teclado em C - scanf - entrada de dados (2022)
+
+Linguagem C - Aula 3.1 - Entenda variáveis e atrubuição de dados - operador = em C (2022)
+
+Linguagem C - Aula 3.2 - Aprenda a realizar cálculos em C (2022)
+
+Linguagem C - Aula 4.1 - Domine o comando IF em C (2022)
+
+Linguagem C - Aula 4.1.1 - Operações lógicas: disjunção, conjunção e negação (2022)
+
+Linguagem C - Aula 4.2 - Domine os comandos IF e ELSE em C (2022)
+
+Linguagem C - Aula 4.3 - Conheça o comando SWITCH-CASE - estrutura de decisão múltipla (2022)
+
+Linguagem C - Aula 5.1 - Domine o comando while - loops/laços condicionais (2022)
+
+Linguagem C - Aula 5.2 - Conheça os comandos do & while - loops/laços condicionais (2022)
+
+Linguagem C - Aula 5.3 - Aprenda o comando for - loops/laços contados (2022)
+
+Linguagem C - Aula 5.4 - Conheça os comandos de Controle de Fluxo break e continue (2022)
+
+Linguagem C - Aula 6.1 - Domine vetores (arrays) em linguagem C (2022)
+
+Linguagem C - Aula 6.2 - Strings: trabalhando com dados de texto em C (2022)
+
+Linguagem C - Aula 7 - Matrizes e Arrays multidimensionais em C (2022)
+
+Linguagem C - Aula 8 - Estude Structs (registros) em C (2022)
+
+Linguagem C - Aula 9.1 - Aprenda a criar e usar Funções e Procedimentos em C (2022)
+
+Linguagem C - Aula 9.2 - Trabalhando com vários arquivos - Projeto de código (2022)
+
